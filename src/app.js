@@ -12,7 +12,7 @@ import 'normalize.css/normalize.css';
 
 const store = configStore();
 
-
+console.log('test');
 const jsx = (
     <Provider store={store}>
         <AppRouter/>
