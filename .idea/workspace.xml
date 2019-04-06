@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c601e0b7-0f0b-4957-a0e5-3ed46aa9d978" name="Default Changelist" comment="" />
+    <list default="true" id="c601e0b7-0f0b-4957-a0e5-3ed46aa9d978" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -13,11 +15,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="13" selection-start-column="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -102,7 +116,6 @@
         <option value="$PROJECT_DIR$/src/tests/components/NotFound.test.js" />
         <option value="$PROJECT_DIR$/src/components/ExpenseDashboardPage.js" />
         <option value="$PROJECT_DIR$/src/tests/components/ExpenseDashboard.test.js" />
-        <option value="$PROJECT_DIR$/src/app.js" />
         <option value="$PROJECT_DIR$/src/tests/__mocks__/moment.js" />
         <option value="$PROJECT_DIR$/src/components/ExpenseForm.js" />
         <option value="$PROJECT_DIR$/src/tests/components/ExpenesForm.test.js" />
@@ -115,6 +128,7 @@
         <option value="$PROJECT_DIR$/src/components/ExpenseListFilters.js" />
         <option value="$PROJECT_DIR$/src/tests/components/ExpenseListFilters.test.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/app.js" />
       </list>
     </option>
   </component>
@@ -135,6 +149,11 @@
             <path>
               <item name="expensify-app" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="expensify-app" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -209,12 +228,12 @@
       <workItem from="1554528463382" duration="37000" />
       <workItem from="1554528519784" duration="222000" />
       <workItem from="1554528762882" duration="505000" />
-      <workItem from="1554529289549" duration="679000" />
+      <workItem from="1554529289549" duration="1184000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="148179000" />
+    <option name="totallyTimeSpent" value="148684000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="961" y="0" width="959" height="1055" extended-state="4" />
@@ -523,13 +542,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="48" lean-forward="true" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/tests/components/NotFound.test.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
@@ -665,6 +677,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
